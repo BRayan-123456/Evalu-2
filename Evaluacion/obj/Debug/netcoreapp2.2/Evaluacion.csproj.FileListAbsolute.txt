@@ -1,0 +1,11 @@
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp2.2\Evaluacion.deps.json
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp2.2\Evaluacion.runtimeconfig.json
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp2.2\Evaluacion.runtimeconfig.dev.json
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp2.2\Evaluacion.dll
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp2.2\Evaluacion.pdb
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp2.2\Evaluacion.csprojAssemblyReference.cache
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp2.2\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp2.2\Evaluacion.AssemblyInfoInputs.cache
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp2.2\Evaluacion.AssemblyInfo.cs
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp2.2\Evaluacion.dll
+C:\Users\BRAYAN STID BERNAL\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp2.2\Evaluacion.pdb
